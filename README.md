@@ -1,11 +1,12 @@
-#### Basic Project
+#### Advanced Project
 
-### March 26, 2016
+### April 20, 2016
 
-A Basic Structure for Maven Projects
+An advanced Structure for Maven Java Projects
 
 * Git
 * Java 7
 * Maven
+* Testing Framework
 
 [Jean-francois Nepton](http://sqasolution.com)
