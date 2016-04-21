@@ -1,8 +1,8 @@
-#### Basic Project
+#### General Project
 
-### March 26, 2016
+### April 20, 2016
 
-A Basic Structure for Maven Projects
+A General Project Structure for Java Maven Projects
 
 * Git
 * Java 7
