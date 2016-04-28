@@ -1,12 +1,12 @@
-#### Advanced Project
+#### Java Project
 
-### April 20, 2016
+### April 27, 2016
 
-An advanced Structure for Maven Java Projects
+A Structure for Maven Java Projects whith included
 
 * Git
 * Java 7
 * Maven
-* Testing Framework
+* JUnit
 
 [Jean-francois Nepton](http://sqasolution.com)
