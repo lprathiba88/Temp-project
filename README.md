@@ -2,7 +2,7 @@
 
 ### April 27, 2016
 
-A Structure for Maven Java Projects whith included
+A structure for Maven Java Projects which included
 
 * Git
 * Java 7
