@@ -4,7 +4,7 @@
   <artifactId>java-project</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>Java Project</name>
-  <description>Java Project structure for a basic Java project.</description>
+  <description>Project structure for a basic Java project using JUnit testing framework.</description>
   	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
