@@ -71,7 +71,7 @@ public class BasicAutoTest {
 	}
 
 	@Test(dataProvider = "UserAccountInfo")
-	public void test(String username, String password) {
+	public void test(String username, String password, String name) {
 		System.out.println("Basic Test: U-" + username + "/P-" + password);
 
 	}
