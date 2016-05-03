@@ -25,7 +25,7 @@ import org.testng.annotations.*;
  *
  */
 public class AppBasicsTests {
-	static String appName = "JF Test";
+	static String appName = "Prat Test";
 	static String userName;
 
 	/**

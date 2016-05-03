@@ -26,7 +26,7 @@ import org.testng.annotations.*;
  */
 public class DisplayTest {
 
-	static String testName = "JF Display Tests";
+	static String testName = "Prat Display Tests";
 	static String userName;
 
 	/**
